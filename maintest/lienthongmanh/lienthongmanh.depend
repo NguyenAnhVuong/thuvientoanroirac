@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1617786000 source:c:\users\admin\desktop\toanroirac\lienthongmanh\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1617912034 c:\users\admin\desktop\toanroirac\lienthongmanh\jrb.h
+	"jval.h"
+
+1617786000 c:\users\admin\desktop\toanroirac\lienthongmanh\jval.h
+
+1619178638 source:c:\users\admin\desktop\toanroirac\lienthongmanh\jval.c
+	<stdio.h>
+	<string.h>
+	"jval.h"
+
+1624534552 source:c:\users\admin\desktop\toanroirac\lienthongmanh\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lienthongmanh.h"
+
+1623165380 source:c:\users\admin\desktop\toanroirac\lienthongmanh\queue.c
+	"queue.h"
+
+1623234801 c:\users\admin\desktop\toanroirac\lienthongmanh\queue.h
+
+1624550817 source:c:\users\admin\desktop\toanroirac\lienthongmanh\lienthongmanh.c
+	"lienthongmanh.h"
+
+1624534436 c:\users\admin\desktop\toanroirac\lienthongmanh\lienthongmanh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jrb.h"
+	"queue.h"
+

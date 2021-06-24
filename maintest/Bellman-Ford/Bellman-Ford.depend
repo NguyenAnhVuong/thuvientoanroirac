@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1624526651 source:c:\users\admin\desktop\toanroirac\bellman-ford\bellman.c
+	"bellman.h"
+
+1624526651 c:\users\admin\desktop\toanroirac\bellman-ford\bellman.h
+	<stdio.h>
+	<stdlib.h>
+	"jrb.h"
+	"queue.h"
+	<string.h>
+
+1617912034 c:\users\admin\desktop\toanroirac\bellman-ford\jrb.h
+	"jval.h"
+
+1617786000 c:\users\admin\desktop\toanroirac\bellman-ford\jval.h
+
+1608830660 c:\users\admin\desktop\toanroirac\bellman-ford\queue.h
+
+1617786000 source:c:\users\admin\desktop\toanroirac\bellman-ford\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1619178638 source:c:\users\admin\desktop\toanroirac\bellman-ford\jval.c
+	<stdio.h>
+	<string.h>
+	"jval.h"
+
+1608981414 source:c:\users\admin\desktop\toanroirac\bellman-ford\queue.c
+	"queue.h"
+

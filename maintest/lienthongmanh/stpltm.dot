@@ -1,0 +1,24 @@
+digraph dothi
+{
+11 [fillcolor=red, style=filled];
+10 [fillcolor=green, style=filled];
+9 [fillcolor=blue, style=filled];
+8 [fillcolor=yellow, style=filled];
+7 [fillcolor=orange, style=filled];
+6 [fillcolor=purple, style=filled];
+1 [fillcolor=gray, style=filled];
+2 [fillcolor=gray, style=filled];
+3 [fillcolor=gray, style=filled];
+4 [fillcolor=gray, style=filled];
+5 [fillcolor=gray, style=filled];
+1 -> 2;
+2 -> 3;
+2 -> 4;
+3 -> 1;
+4 -> 5;
+4 -> 6;
+4 -> 7;
+5 -> 2;
+5 -> 8;
+10 -> 11;
+}
