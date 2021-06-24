@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1624536027 source:c:\users\admin\desktop\toanroirac\tomau\tomau.c
+	"tomau.h"
+
+1624536027 c:\users\admin\desktop\toanroirac\tomau\tomau.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
