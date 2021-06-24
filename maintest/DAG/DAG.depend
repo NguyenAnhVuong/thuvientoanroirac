@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1624547143 source:c:\users\admin\desktop\toanroirac\dag\dag.c
+	"dag.h"
+
+1624532154 c:\users\admin\desktop\toanroirac\dag\dag.h
+	<stdio.h>
+	<stdlib.h>
+	"jrb.h"
+	"queue.h"
+	<string.h>
+
+1617987635 c:\users\admin\desktop\toanroirac\dag\jrb.h
+	"jval.h"
+
+1617861600 c:\users\admin\desktop\toanroirac\dag\jval.h
+
+1624531952 c:\users\admin\desktop\toanroirac\dag\queue.h
+	<stdio.h>
+
+1624524948 source:c:\users\admin\desktop\toanroirac\dag\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dag.h"
+
+1617861600 source:c:\users\admin\desktop\toanroirac\dag\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1619254239 source:c:\users\admin\desktop\toanroirac\dag\jval.c
+	<stdio.h>
+	<string.h>
+	"jval.h"
+
+1609060614 source:c:\users\admin\desktop\toanroirac\dag\queue.c
+	"queue.h"
+
