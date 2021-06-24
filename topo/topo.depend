@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+979624692 source:c:\users\admin\desktop\toanroirac\topo\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+979624704 c:\users\admin\desktop\toanroirac\topo\jrb.h
+	"jval.h"
+
+979624722 c:\users\admin\desktop\toanroirac\topo\jval.h
+
+1033341942 source:c:\users\admin\desktop\toanroirac\topo\jval.c
+	<stdio.h>
+	"jval.h"
+
+1624287998 source:c:\users\admin\desktop\toanroirac\topo\queue.c
+	"queue.h"
+
+1624287968 c:\users\admin\desktop\toanroirac\topo\queue.h
+
+1624529012 source:c:\users\admin\desktop\toanroirac\topo\topo.c
+	"topo.h"
+
+1624529725 c:\users\admin\desktop\toanroirac\topo\topo.h
+	<stdio.h>
+	<stdlib.h>
+	"jrb.h"
+	"queue.h"
+	<string.h>
+
+1624529547 source:c:\users\admin\desktop\toanroirac\topo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"topo.h"
+
