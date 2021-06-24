@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1624532744 source:c:\users\admin\desktop\toanroirac\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prim.h"
+
+1624532744 c:\users\admin\desktop\toanroirac\prim\prim.h
+	<stdio.h>
+	<stdlib.h>
+	"jrb.h"
+	"queue.h"
+	<string.h>
+
+1617912034 c:\users\admin\desktop\toanroirac\prim\jrb.h
+	"jval.h"
+
+1617786000 c:\users\admin\desktop\toanroirac\prim\jval.h
+
+1624099107 c:\users\admin\desktop\toanroirac\prim\queue.h
+	<stdio.h>
+
+1624533872 source:c:\users\admin\desktop\toanroirac\prim\prim.c
+	"prim.h"
+
+1617786000 source:c:\users\admin\desktop\toanroirac\prim\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1619178638 source:c:\users\admin\desktop\toanroirac\prim\jval.c
+	<stdio.h>
+	<string.h>
+	"jval.h"
+
+1608981414 source:c:\users\admin\desktop\toanroirac\prim\queue.c
+	"queue.h"
+

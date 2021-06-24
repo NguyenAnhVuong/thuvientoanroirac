@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1616913720 source:c:\users\admin\desktop\toanroirac\dijkstra\jrb.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"jrb.h"
+
+1616913720 c:\users\admin\desktop\toanroirac\dijkstra\jrb.h
+	"jval.h"
+
+1616913720 c:\users\admin\desktop\toanroirac\dijkstra\jval.h
+
+1616913720 source:c:\users\admin\desktop\toanroirac\dijkstra\jval.c
+	<stdio.h>
+	<string.h>
+	"jval.h"
+
+1624364048 source:c:\users\admin\desktop\toanroirac\dijkstra\queue.c
+	"queue.h"
+
+1624525984 c:\users\admin\desktop\toanroirac\dijkstra\queue.h
+
+1624525817 source:c:\users\admin\desktop\toanroirac\dijkstra\dijkstra.c
+	"dijkstra.h"
+
+1624525916 c:\users\admin\desktop\toanroirac\dijkstra\dijkstra.h
+	<stdio.h>
+	<stdlib.h>
+	"jrb.h"
+	"queue.h"
+	<string.h>
+
+1624525817 source:c:\users\admin\desktop\toanroirac\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dijkstra.h"
+
