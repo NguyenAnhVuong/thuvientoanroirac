@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624545539 source:c:\users\admin\desktop\toanroirac\kruskal\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"kruskal.h"
+
+1624545558 c:\users\admin\desktop\toanroirac\kruskal\kruskal.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1624545735 source:c:\users\admin\desktop\toanroirac\kruskal\kruskal.c
+	"kruskal.h"
+

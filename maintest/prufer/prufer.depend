@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624521544 source:c:\users\admin\desktop\toanroirac\prufer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prufercode.h"
+
+1624521604 c:\users\admin\desktop\toanroirac\prufer\prufercode.h
+	<stdio.h>
+	"stdlib.h"
+
+1624523578 source:c:\users\admin\desktop\toanroirac\prufer\prufercode.c
+	"prufercode.h"
+
